@@ -4,13 +4,24 @@ Project description here:
 https://my.visme.co/projects/rxyojmyo-bioe-cs-494-2#s1
 
 PPG signal:
-https://user-images.githubusercontent.com/63125253/111841450-4542ab80-88fe-11eb-98fd-69c9ad6048d6.mp4![ezgif com-video-to-gif (16)]
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63125253/111841914-fcd7bd80-88fe-11eb-944b-49138ddd3173.gif)
+
+
+
 
 User Interface:
-(https://user-images.githubusercontent.com/63125253/111841475-4f64aa00-88fe-11eb-9ece-e90a0a317552.gif)
+
+![ezgif com-video-to-gif (16)](https://user-images.githubusercontent.com/63125253/111841971-14af4180-88ff-11eb-964d-3d183a0b7a5f.gif)
+
+
 
 Final device:
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/63125253/111841369-293f0a00-88fe-11eb-8896-8e8ce12c89f8.gif)
+
+![ezgif com-resize (2)](https://user-images.githubusercontent.com/63125253/111842077-3b6d7800-88ff-11eb-870b-060764c3ae70.gif)
+
+
+
 
 
 
